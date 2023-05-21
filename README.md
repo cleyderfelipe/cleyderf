@@ -4,4 +4,4 @@
   
   *comando git pull
   
-  *comando git 
+  *comando fecht+diff origin/branch
